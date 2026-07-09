@@ -1,0 +1,4 @@
+module MobaiBiometric {
+header "MobaiBiometric-Swift.h"
+export *
+}
